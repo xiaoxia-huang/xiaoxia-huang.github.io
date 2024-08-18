@@ -26,4 +26,3 @@ Existing studies suggest that increasing the number of women in the pipeline to 
 ### Project 3: The Impact of Gender Quotas on Women’s Representation in China
 
 **Abstract**
----
