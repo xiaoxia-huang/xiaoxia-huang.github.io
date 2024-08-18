@@ -1,8 +1,8 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+permalink: /Research/
+description: 
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -17,7 +17,7 @@ Existing studies suggest that increasing the number of women in the pipeline to 
 
 ---
 
-### Project 2: The Negative Impact of Gender Quotas on Women’s Representation in China
+### Project 2: The Impact of Gender Quotas on Women’s Representation in China
 
 **Abstract**
 
