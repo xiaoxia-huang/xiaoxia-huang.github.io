@@ -1,12 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Introduction to Political Analysis** (Discussion Sections) for Maraam Dwider, 2022 Spring
 
-Organize your courses by years, topics, or universities, however you like!
+
+**Introduction to Political Analysis** (Discussion Sections) for Simon Weschle, 2023 Spring, 2023 Fall
+
+
+**Environmental Politics and Policy** for Sarah Pralle, 2022 Fall
