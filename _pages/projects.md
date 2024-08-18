@@ -17,8 +17,13 @@ Existing studies suggest that increasing the number of women in the pipeline to 
 
 ---
 
-### Project 2: The Impact of Gender Quotas on Women’s Representation in China
+### Project 2: The Distribution of Public Sector Jobs in China
 
 **Abstract**
 
+---
+
+### Project 2: The Impact of Gender Quotas on Women’s Representation in China
+
+**Abstract**
 ---
