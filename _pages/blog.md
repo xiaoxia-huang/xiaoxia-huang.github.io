@@ -4,12 +4,6 @@ permalink: /contact/
 title: Contact
 nav: true
 nav_order: 5
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_reverse: true
 ---
 
 Xiaoxia Huang
