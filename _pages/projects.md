@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: 
 permalink: /research/
 description: 
 nav: true
@@ -11,7 +11,7 @@ horizontal: false
 
 ## Working Paper
 
-# Project 1: Gender Backlash to Meritocratic Bureaucratic Recruitment: Evidence from China
+Gender Backlash to Meritocratic Bureaucratic Recruitment: Evidence from China
 
 **Abstract**
 
@@ -19,13 +19,13 @@ Existing studies suggest that increasing the number of women in the pipeline to 
 
 ---
 
-# Project 2: The Distribution of Public Sector Jobs in China
+The Distribution of Public Sector Jobs in China
 
 **Abstract**
 
 ---
 
-# Project 3: The Impact of Gender Quotas on Women’s Representation in China
+The Impact of Gender Quotas on Women’s Representation in China
 
 **Abstract**
 
