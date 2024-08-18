@@ -9,57 +9,16 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+### Project 1: Gender Backlash to Meritocratic Bureaucratic Recruitment: Evidence from China
 
-{% else %}
+**Abstract**
 
-<!-- Display projects without categories -->
+Existing studies suggest that increasing the number of women in the pipeline to public office will enhance their descriptive representation. Using the case of China’s bureaucratic recruitment, however, this research demonstrates that a growing presence of women can provoke resistance to their entry. Analyzing an original dataset of job ads with explicit gender preferences (2005-2024) from the Chinese National Civil Service Exam, I find an increasing preference for male candidates. Analysis of shortlist records (2013-2023) links this preference to the increased presence of women on previous shortlists, particularly in lower-skilled jobs. Posting-level application records (2016-2022) show that male-preferred ads result in a 40-50% decrease in the applicant pool and a 3-5% drop in candidate quality. This study underscores that increasing the number of women candidates does not guarantee proportional representation and may instead provoke efforts to restrict their entry into public office.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+---
 
-  <!-- Generate cards for each project -->
+### Project 2: The Negative Impact of Gender Quotas on Women’s Representation in China
 
-{% if page.horizontal %}
+**Abstract**
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+---
