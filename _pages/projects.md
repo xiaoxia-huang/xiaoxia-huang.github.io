@@ -13,15 +13,12 @@ horizontal: false
 
 Gender Backlash to Meritocratic Bureaucratic Recruitment: Evidence from China (*Working paper*)
 
----
 
 The Distribution of Public Sector Jobs in China (*Work in progress*)
 
----
 
 The Impact of Gender Quotas on Women’s Representation in China (*Work in progress*)
 
----
 
 Local Elections in Japan (*Work in progress*)
 
