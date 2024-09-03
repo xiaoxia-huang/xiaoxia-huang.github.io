@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Welcome! 
+Welcome!  
 
 I’m Xiaoxia Huang, a Ph.D. candidate in the [Department of Political Science](https://www.maxwell.syr.edu/academics/political-science-department) at [Syracuse University](https://www.syracuse.edu/). My research focuses on gender and bureaucracy in East Asia, with a particular emphasis on China.
 
