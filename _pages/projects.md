@@ -23,7 +23,7 @@ Whose Voice Counts? Regime Insiders, Gender, and Legislative Responsiveness in A
 “It’s All About Who You Know: Patronage Networks and Public Sector Headcounts in China. (*Work in Progress*) With Rui Zuo.
 
 
-Local Elections in Japan (*Work in progress*) With Margarita Estévez-Abe.
+Local Elections in Japan (*Work in Progress*) With Margarita Estévez-Abe.
 
 ## Peer-reviewed Publication
 
