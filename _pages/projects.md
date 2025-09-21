@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-## Working Paper
+## Working Papers
 
 Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China. (*Revise & Resubmit*)
 
@@ -25,7 +25,7 @@ Whose Voice Counts? Regime Insiders, Gender, and Legislative Responsiveness in A
 
 Local Elections in Japan (*Work in Progress*) With Margarita Estévez-Abe.
 
-## Peer-reviewed Publication
+## Peer-Reviewed Publications
 
 Yang, F., **Huang, X.**, & Li, Z. (2022). [Gender, situational visibility, and discretionary decision-making of regulatory street-level bureaucrats under pandemic emergency: An experimental study in China.](https://www.tandfonline.com/doi/full/10.1080/14719037.2021.1886316) *Public Management Review*, 24(8), 1312-1329.
 
