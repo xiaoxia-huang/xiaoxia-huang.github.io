@@ -11,16 +11,19 @@ horizontal: false
 
 ## Working Paper
 
-Gender Backlash to Meritocratic Bureaucratic Recruitment: Evidence from China (*Working paper*)
+Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China. (*Revise & Resubmit*)
 
 
-The Distribution of Public Sector Jobs in China (*Work in progress*)
+Upholding the Glass Ceiling: How Gender Quotas Restrict Women’s Descriptive Representation. (*Under Review*) With Jian Kang and Xinhui Jiang.
 
 
-The Impact of Gender Quotas on Women’s Representation in China (*Work in progress*)
+Whose Voice Counts? Regime Insiders, Gender, and Legislative Responsiveness in Authoritarian China. (*Working Paper*) With Dongshu Liu.
 
 
-Local Elections in Japan (*Work in progress*)
+“It’s All About Who You Know: Patronage Networks and Public Sector Headcounts in China. (*Work in progress*) With Rui Zuo.
+
+
+Local Elections in Japan (*Work in progress*) With Margarita Estévez-Abe.
 
 ## Peer-reviewed Publication
 
