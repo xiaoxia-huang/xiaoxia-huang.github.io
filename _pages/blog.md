@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-Xiaoxia Huang
+**Xiaoxia Huang**
 
 
 Ph.D. candidate, Department of Political Science, Syracuse University
