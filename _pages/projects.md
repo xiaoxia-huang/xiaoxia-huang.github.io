@@ -20,7 +20,7 @@ Upholding the Glass Ceiling: How Gender Quotas Restrict Women’s Descriptive Re
 Whose Voice Counts? Regime Insiders, Gender, and Legislative Responsiveness in Authoritarian China. (*Working Paper*) With Dongshu Liu.
 
 
-“It’s All About Who You Know: Patronage Networks and Public Sector Headcounts in China. (*Work in progress*) With Rui Zuo.
+“It’s All About Who You Know: Patronage Networks and Public Sector Headcounts in China. (*Work in Progress*) With Rui Zuo.
 
 
 Local Elections in Japan (*Work in progress*) With Margarita Estévez-Abe.
