@@ -7,5 +7,6 @@ nav_order: 2
 cv_pdf: xiaoxia_huang_cv.pdf
 description: 
 ---
+You can download my CV using the link below.
 
-[Download my CV](/assets/pdf/xiaoxia_huang_cv.pdf)
+[**Download CV (PDF)**](/assets/pdf/xiaoxia_huang_cv.pdf)
