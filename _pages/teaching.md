@@ -7,18 +7,18 @@ nav: true
 nav_order: 3
 ---
 
-# Teaching Experience
+<h2 class="small-heading">Teaching Experience</h2>
 
-**Introduction to Political Analysis** (Discussion Sections) for Simon Weschle, Spring 2023, Fall 2023
-
-
-**Introduction to Political Analysis** (Discussion Sections) for Maraam Dwider, Spring 2022
+*Introduction to Political Analysis* (Discussion Sections) for Simon Weschle, Spring 2023, Fall 2023
 
 
-**Environmental Politics and Policy** for Sarah Pralle, Fall 2022
+*Introduction to Political Analysis* (Discussion Sections) for Maraam Dwider, Spring 2022
 
 
-# Selected Student Comments
+*Environmental Politics and Policy* for Sarah Pralle, Fall 2022
+
+
+<h2 class="small-heading">Selected Student Comments</h2>
 
 "My TA, Xiaoxia Huang, was the sweetest, most understanding and caring TA. She was the best."  
 
