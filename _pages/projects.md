@@ -11,11 +11,9 @@ horizontal: false
 
 <h2 class="small-heading">Selected Working Papers</h2>
 
-**Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China.**
+**Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China**
 
-*Revise and Resubmit at The Journal of Politics.*
-
-*Prize Winner of the Empirical Study of Gender Networks (EGEN, 2024)*
+*R&R,* ***The Journal of Politics*** · [EGEN](http://www.egenpolisci.org/) *Prize Winner (2024)*
 
 While the causes and consequences of gender bias are well documented, it remains unclear whether existing theories explain gender dynamics in China's ostensibly meritocratic bureaucracy. This study addresses this gap by leveraging original administrative data from the Chinese National Civil Service Examination. The findings show widespread gender bias, with an increased supply of qualified female applicants in prior years prompting hiring authorities, particularly at lower levels of government, to adopt recruitment practices favoring male candidates. These male-preferred practices significantly reshape the candidate pool, reducing its size by 40–50% and lowering candidate quality by 3–5%. These findings deepen our understanding of women's persistent underrepresentation in the Chinese bureaucracy and highlight the substantial costs associated with gendered recruitment practices.
 
