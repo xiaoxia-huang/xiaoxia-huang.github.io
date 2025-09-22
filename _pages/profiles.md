@@ -1,28 +1,41 @@
 ---
 layout: data
-permalink: /people/
+permalink: /data/
 title: Data
 description:
 nav: true
 nav_order: 5
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: leadership_team.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+
+  # 1. Civil Service Examination Dataset
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: civil_service_exam.png
+    content: civil_service_exam.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Civil Service Examination Data</p>
+      <p>Prefectural City</p>
+      <p>2005–2025</p>
+      
+  # 2. Female Leadership Team Dataset （With Jian Kang and Xinhui Jiang)
+  - align: left
+    image: leadership_team.jpg
+    content: leadership_team.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Female Leadership Team Data</p>
+      <p>Prefectural City</p>
+      <p>2013–2023</p>
+
+    # 3. The Autocrat's Dilemma: Promote or Demote? （With Hanzhang Liu)
+  - align: left
+    image: demote.png
+    content: leadership_team.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Appointments with Promotions and Demotions after a National Reform</p>
+      <p>Prefectural City</p>
+      <p>2013–2023</p>
+    
 ---
