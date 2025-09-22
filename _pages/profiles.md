@@ -3,7 +3,7 @@ layout: data
 permalink: /data/
 title: Data
 description:
-nav: true
+nav: false
 nav_order: 5
 
 profiles:
