@@ -24,4 +24,4 @@ My dissertation examines bureaucratic recruitment in China, focusing on how meri
 
 Outside of my academic work, I enjoy cooking and hiking, and I hike weekly.
 
-You can view my [CV(PDF) here](/assets/pdf/xiaoxia_huang_cv.pdf).
+For more information, please see my [CV(PDF)](/assets/pdf/xiaoxia_huang_cv.pdf).
