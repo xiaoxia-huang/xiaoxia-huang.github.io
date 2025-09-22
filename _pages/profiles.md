@@ -1,9 +1,9 @@
 ---
-layout: profiles
+layout: data
 permalink: /people/
 title: Data
-description: members of the lab or group
-nav: false
+description:
+nav: true
 nav_order: 5
 
 profiles:
