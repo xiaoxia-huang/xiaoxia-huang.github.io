@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-## Working Papers
+<h2 class="small-heading">Working Papers</h2>
 
 **Xiaoxia Huang**. Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China. *Revise and Resubmit* at ***The Journal of Politics***.
 
@@ -26,7 +26,7 @@ Margarita Estévez-Abe and **Xiaoxia Huang**. Running as Challengers: Females an
 **Xiaoxia Huang** and Rui Zuo. It’s All About Who You Know: Patronage Networks and Public Sector Headcounts in China. *Data Analysis*.
 
 
-## Peer-Reviewed Publications
+<h2 class="small-heading">Peer-Reviewed Publications</h2>
 
 Fan Yang, **Xiaoxia Huang**, & Zhichao Li. (2022). [Gender, situational visibility, and discretionary decision-making of regulatory street-level bureaucrats under pandemic emergency: An experimental study in China.](https://www.tandfonline.com/doi/full/10.1080/14719037.2021.1886316) *Public Management Review*, 24(8), 1312-1329.
 
