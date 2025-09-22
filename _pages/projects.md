@@ -11,19 +11,20 @@ horizontal: false
 
 ## Working Papers
 
-Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China. (*Revise & Resubmit*)
+**Xiaoxia Huang**. Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China. *Revise and Resubmit* at ***The Journal of Politics***.
 
 
-Upholding the Glass Ceiling: How Gender Quotas Restrict Women’s Descriptive Representation. (*Under Review*) With Jian Kang and Xinhui Jiang.
+**Xiaoxia Huang**, Jian Kang, and Xinhui Jiang. Upholding the Glass Ceiling: How Gender Quotas Restrict Women’s Descriptive Representation. *Under Review*.
 
 
-Whose Voice Counts? Regime Insiders, Gender, and Legislative Responsiveness in Authoritarian China. (*Working Paper*) With Dongshu Liu.
+**Xiaoxia Huang** and Dongshu Liu. Whose Voice Counts? Regime Insiders, Gender, and Legislative Responsiveness in Authoritarian China. *Working Paper*.
 
 
-“It’s All About Who You Know: Patronage Networks and Public Sector Headcounts in China. (*Work in Progress*) With Rui Zuo.
+Margarita Estévez-Abe and **Xiaoxia Huang**. Running as Challengers: Females and Japan’s Local Elections. *Manuscript in Preparation*.
 
 
-Local Elections in Japan (*Work in Progress*) With Margarita Estévez-Abe.
+**Xiaoxia Huang** and Rui Zuo. It’s All About Who You Know: Patronage Networks and Public Sector Headcounts in China. *Data Analysis*.
+
 
 ## Peer-Reviewed Publications
 
