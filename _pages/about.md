@@ -18,10 +18,10 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-Welcome! I’m Xiaoxia Huang, a Ph.D. candidate in the [Department of Political Science](https://www.maxwell.syr.edu/academics/political-science-department) at [Syracuse University](https://www.syracuse.edu/). My research focuses on gender and bureaucracy in China.
+Welcome! I received my Ph.D. in Political Science from Syracuse University￼. In Fall 2026, I will join the [Department of Political Science](https://www.lsu.edu/hss/polisci/) at Louisiana State University as an Assistant Professor.
 
-My dissertation examines bureaucratic recruitment in China, focusing on how merit-based recruitment has improved gender representation in the civil service, the resulting backlash, and its broader consequences. My dissertation has been supported by the [Empirical Study of Gender Research Network (EGEN)](http://www.egenpolisci.org/) and the [Carrie Chapman Catt Prize](https://cattcenter.iastate.edu/research/catt-prize/). My other ongoing projects explore the allocation of public sector jobs in China, gendered patterns in bureaucratic promotions, and the role of gender in the Chinese legislature.
+My research focuses on gender and bureaucracy in China. On the gender side, I examine the institutional barriers that shape women's entry into and advancement within Chinese politics and bureaucracy, as well as the substantive effects of gender representation in China. On the bureaucracy side, I study the allocation of public sector jobs, with particular attention to how bureaucratic reforms and political connections influence access to public sector employment and the distribution of state positions.
 
-Outside of my academic work, I enjoy cooking and hiking, and I hike weekly.
+My research has been supported by the [Empirical Study of Gender Research Network (EGEN)](http://www.egenpolisci.org/) and the [Carrie Chapman Catt Prize](https://cattcenter.iastate.edu/research/catt-prize/). 
 
 For more information, please see my [CV(PDF)](/assets/pdf/xiaoxia_huang_cv.pdf).
