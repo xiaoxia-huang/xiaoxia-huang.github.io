@@ -13,4 +13,4 @@ Comparative Bureaucracy, Undergraduate (Fall 2026–Spring 2027)
 Gender and Politics in Comparative Perspective, Undergraduate (Fall 2026)
 
 
-Comparative Representation, Graduate (Fall 2026)
+Comparative Representation, Graduate (Spring 2027)
